@@ -37,3 +37,16 @@ The project runs through the Data Analysis process of multiple tables, connectio
 - The 20 highest paying customers and the amount of orders per customer
 - The customers which has contributed the highest revenue
 - Splicer to filter the data through years
+### _______________________ Milestone 6 _______________________
+10) Created report page on Executive Summary Page. This includes:
+- Total Orders
+- Total Revenue
+- Total Profit
+- Total Revenue by Year
+- Total Revenue by Country
+- Total Revenue by Store Type
+- Total Orders By Category
+- KPIs for Revenue (by Quarter)
+- KPIs for Profit (by Quarter)
+- KPIs for Orders (by  Quarter)
+As a side note, it was at this stage where I realised that I had been using a 50-row short version of the dataset, and had to go back to reload the full dataset and redo my relationships. (Oops haha)
