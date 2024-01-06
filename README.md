@@ -50,3 +50,10 @@ The project runs through the Data Analysis process of multiple tables, connectio
 - KPIs for Profit (by Quarter)
 - KPIs for Orders (by  Quarter)
 As a side note, it was at this stage where I realised that I had been using a 50-row short version of the dataset, and had to go back to reload the full dataset and redo my relationships. (Oops haha)
+### _______________________ Milestone 7 _______________________
+11) Created a report page on Product Details. This includes:
+- Gauges for Total Orders vs Quart Target Orders, Total Profit vs Quarter Target Profit and Total Revenue vs Quarter Target Revenue
+- Area chart for Total Revenue by Start of Quarter and Category
+- Scatter graph for the Profit per Item by Total Quantity of each item bought, sorted by Description and Category
+- Tables with Description of each product, the Total Revenue, the Total Customers, Total Orders and Profit per Order, with top 10 most popular items listed based on the Highest Top Orders
+- Slicers which slice through Product Categories and Country
