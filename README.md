@@ -57,3 +57,10 @@ As a side note, it was at this stage where I realised that I had been using a 50
 - Scatter graph for the Profit per Item by Total Quantity of each item bought, sorted by Description and Category
 - Tables with Description of each product, the Total Revenue, the Total Customers, Total Orders and Profit per Order, with top 10 most popular items listed based on the Highest Top Orders
 - Slicers which slice through Product Categories and Country
+### _______________________ Milestone 8 _______________________
+12) Created a report page on a Stores Map. This includes:
+- Added a map with hierarchy of specificity for Region, country and country regions.
+- Slicer for the map that specifies the Country (Germany, United Kingdom or United States) to focus on.
+- Tooltip page with a gauge shpwing the Profit YTD against the Profit Goal (Same period in the previous year profit x 1.2), which changes in relation to which country or region in being hovered over on the Map page.
+- A Stores Drilltrhough page which shows Top 5 Products by Amount of Orders, Total Orders by Category, and the Profit gauge as specified above, which change in relation to the region or country which is being filtered through.
+
