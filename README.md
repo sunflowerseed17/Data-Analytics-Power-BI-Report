@@ -64,5 +64,16 @@ As a side note, it was at this stage where I realised that I had been using a 50
 - Tooltip page with a gauge shpwing the Profit YTD against the Profit Goal (Same period in the previous year profit x 1.2), which changes in relation to which country or region in being hovered over on the Map page.
 - A Stores Drilltrhough page which shows Top 5 Products by Amount of Orders, Total Orders by Category, and the Profit gauge as specified above, which change in relation to the region or country which is being filtered through.
 ### _______________________ Milestone 9 _______________________
-13) Added buttons to be able to move through pages 
+13) Added buttons to be able to move through pages
+### _______________________ Milestone 10 _______________________
+14) Querying the data through SQL. The queries can be found through the .sql files uploaded. Their respective outputs are found in the .csv files associated with the 'questions'. 
+In the 5th query, it appears that the 'cost_price' column in the dim_product table is NULL, resulting in a 'No Data' output for the query. With more time, I would dig down to figure out a different way of linking cost_price or finding why the column is full of NULLS. 
+- The first query counts the number of stuff in the UK
+- The second query shows the month with the highest revenue in 2022
+- The third query shows the store type with the highest revenue in Germany in 2022
+- The fourth query outputs a table with columns of store type, total sales, sale percentages and total orders.
+- The fifth query (is meant to) give back the product category with the highest profit in Wiltshire, UK in 2021.
+
+
+
 
